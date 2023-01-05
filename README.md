@@ -1,14 +1,3 @@
-<br/>
-<p align="center">
-<a href="https://chain.link" target="_blank">
-<img src="./box-img-lg.png" width="225" alt="Chainlink Hardhat logo">
-</a>
-</p>
-<br/>
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/smartcontractkit/hardhat-starter-kit)
-
-[![GitPOAP Badge](https://public-api.gitpoap.io/v1/repo/smartcontractkit/hardhat-starter-kit/badge)](https://www.gitpoap.io/gp/649)
 
 - [Chainlink Hardhat Starter Kit](#chainlink-hardhat-starter-kit)
 - [Getting Started](#getting-started)
